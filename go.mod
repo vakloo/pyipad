@@ -6,7 +6,10 @@ require (
 
 	github.com/btcsuite/btcutil v1.0.2
 	github.com/btcsuite/go-socks v0.0.0-20170105172521-4720035b7bfd
-	
+	github.com/Pyrinpyi/go-muhash v1.0.0
+	github.com/Pyrinpyi/go-secp256k1 v1.0.0
+	github.com/btcsuite/winsvc v1.0.0
+	github.com/jrick/logrotate v1.0.0
 	github.com/davecgh/go-spew v1.1.1
 	github.com/gofrs/flock v0.8.1
 	github.com/golang/protobuf v1.5.2
