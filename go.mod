@@ -1,4 +1,4 @@
-module github.com/Pyrinpyi/pyipad
+module github.com/vakloo/pyipad
 
 go 1.18
 
